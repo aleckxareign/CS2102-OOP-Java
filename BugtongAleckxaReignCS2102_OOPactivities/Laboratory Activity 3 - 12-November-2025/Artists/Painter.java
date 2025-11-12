@@ -1,0 +1,17 @@
+public class Painter extends Artist {
+    public enum Medium { OIL, WATERCOLOR, ACRYLIC, PENCIL, CHARCOAL }
+
+    private Medium medium;
+
+    public Painter(String name, int age, String specialty, Medium medium) {
+        super(name, age, specialty);
+        this.medium = medium;
+    }
+
+    @Override
+    public void displayInfo() {
+        System.out.println("Painter's Info:");
+        super.displayInfo();
+        System.out.println("Medium: " + medium);
+    }
+}
