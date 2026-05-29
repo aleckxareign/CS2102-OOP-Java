@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:fb923c&height=200&section=header&text=CS2102%20%E2%80%94%20OOP%20in%20Java&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Object-Oriented%20Programming%20%7C%20Practice%20Assessments%20%26%20Lab%20Activities&descAlignY=58&descColor=ffe4cc" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=CS2102+%E2%80%94+OOP+in+Java;Object-Oriented+Programming" alt="Typing SVG" />
 
 </div>
 
